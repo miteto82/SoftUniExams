@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\bin\Debug\netcoreapp3.0\Safary.exe
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\bin\Debug\netcoreapp3.0\Safary.deps.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\bin\Debug\netcoreapp3.0\Safary.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\bin\Debug\netcoreapp3.0\Safary.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\bin\Debug\netcoreapp3.0\Safary.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\bin\Debug\netcoreapp3.0\Safary.pdb
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\obj\Debug\netcoreapp3.0\Safary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\obj\Debug\netcoreapp3.0\Safary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\obj\Debug\netcoreapp3.0\Safary.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\obj\Debug\netcoreapp3.0\Safary.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Safary\obj\Debug\netcoreapp3.0\Safary.pdb

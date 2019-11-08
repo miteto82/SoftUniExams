@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\bin\Debug\netcoreapp3.0\Vet Parking.exe
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\bin\Debug\netcoreapp3.0\Vet Parking.deps.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\bin\Debug\netcoreapp3.0\Vet Parking.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\bin\Debug\netcoreapp3.0\Vet Parking.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\bin\Debug\netcoreapp3.0\Vet Parking.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\bin\Debug\netcoreapp3.0\Vet Parking.pdb
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\obj\Debug\netcoreapp3.0\Vet Parking.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\obj\Debug\netcoreapp3.0\Vet Parking.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\obj\Debug\netcoreapp3.0\Vet Parking.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\obj\Debug\netcoreapp3.0\Vet Parking.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Vet Parking\obj\Debug\netcoreapp3.0\Vet Parking.pdb

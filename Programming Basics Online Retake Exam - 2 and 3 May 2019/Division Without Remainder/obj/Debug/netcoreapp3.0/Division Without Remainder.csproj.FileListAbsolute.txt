@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\bin\Debug\netcoreapp3.0\Division Without Remainder.exe
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\bin\Debug\netcoreapp3.0\Division Without Remainder.deps.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\bin\Debug\netcoreapp3.0\Division Without Remainder.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\bin\Debug\netcoreapp3.0\Division Without Remainder.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\bin\Debug\netcoreapp3.0\Division Without Remainder.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\bin\Debug\netcoreapp3.0\Division Without Remainder.pdb
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\obj\Debug\netcoreapp3.0\Division Without Remainder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\obj\Debug\netcoreapp3.0\Division Without Remainder.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\obj\Debug\netcoreapp3.0\Division Without Remainder.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Division Without Remainder\obj\Debug\netcoreapp3.0\Division Without Remainder.pdb

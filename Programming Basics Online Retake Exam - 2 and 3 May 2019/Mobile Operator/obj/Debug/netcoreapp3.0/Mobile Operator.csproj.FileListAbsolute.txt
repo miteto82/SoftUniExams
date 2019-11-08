@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\bin\Debug\netcoreapp3.0\Mobile Operator.exe
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\bin\Debug\netcoreapp3.0\Mobile Operator.deps.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\bin\Debug\netcoreapp3.0\Mobile Operator.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\bin\Debug\netcoreapp3.0\Mobile Operator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\bin\Debug\netcoreapp3.0\Mobile Operator.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\bin\Debug\netcoreapp3.0\Mobile Operator.pdb
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\obj\Debug\netcoreapp3.0\Mobile Operator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\obj\Debug\netcoreapp3.0\Mobile Operator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\obj\Debug\netcoreapp3.0\Mobile Operator.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\obj\Debug\netcoreapp3.0\Mobile Operator.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Mobile Operator\obj\Debug\netcoreapp3.0\Mobile Operator.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\bin\Debug\netcoreapp3.0\Tourist Shop.exe
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\bin\Debug\netcoreapp3.0\Tourist Shop.deps.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\bin\Debug\netcoreapp3.0\Tourist Shop.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\bin\Debug\netcoreapp3.0\Tourist Shop.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\bin\Debug\netcoreapp3.0\Tourist Shop.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\bin\Debug\netcoreapp3.0\Tourist Shop.pdb
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\obj\Debug\netcoreapp3.0\Tourist Shop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\obj\Debug\netcoreapp3.0\Tourist Shop.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\obj\Debug\netcoreapp3.0\Tourist Shop.dll
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\obj\Debug\netcoreapp3.0\Tourist Shop.pdb
+C:\Users\User\source\repos\Programming Basics Online Retake Exam - 2 and 3 May 2019\Tourist Shop\obj\Debug\netcoreapp3.0\Tourist Shop.csprojAssemblyReference.cache
