@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\bin\Debug\netcoreapp3.0\Club.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\bin\Debug\netcoreapp3.0\Club.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\bin\Debug\netcoreapp3.0\Club.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\bin\Debug\netcoreapp3.0\Club.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\bin\Debug\netcoreapp3.0\Club.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\bin\Debug\netcoreapp3.0\Club.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\obj\Debug\netcoreapp3.0\Club.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\obj\Debug\netcoreapp3.0\Club.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\obj\Debug\netcoreapp3.0\Club.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\obj\Debug\netcoreapp3.0\Club.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Club\obj\Debug\netcoreapp3.0\Club.pdb

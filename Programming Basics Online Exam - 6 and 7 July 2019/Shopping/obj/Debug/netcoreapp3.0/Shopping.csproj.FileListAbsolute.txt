@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\bin\Debug\netcoreapp3.0\Shopping.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\bin\Debug\netcoreapp3.0\Shopping.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\bin\Debug\netcoreapp3.0\Shopping.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\bin\Debug\netcoreapp3.0\Shopping.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\bin\Debug\netcoreapp3.0\Shopping.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\bin\Debug\netcoreapp3.0\Shopping.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\obj\Debug\netcoreapp3.0\Shopping.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\obj\Debug\netcoreapp3.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\obj\Debug\netcoreapp3.0\Shopping.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\obj\Debug\netcoreapp3.0\Shopping.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Shopping\obj\Debug\netcoreapp3.0\Shopping.pdb

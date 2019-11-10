@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\bin\Debug\netcoreapp3.0\Name Game.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\bin\Debug\netcoreapp3.0\Name Game.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\bin\Debug\netcoreapp3.0\Name Game.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\bin\Debug\netcoreapp3.0\Name Game.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\bin\Debug\netcoreapp3.0\Name Game.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\bin\Debug\netcoreapp3.0\Name Game.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\obj\Debug\netcoreapp3.0\Name Game.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\obj\Debug\netcoreapp3.0\Name Game.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\obj\Debug\netcoreapp3.0\Name Game.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\obj\Debug\netcoreapp3.0\Name Game.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Name Game\obj\Debug\netcoreapp3.0\Name Game.csprojAssemblyReference.cache

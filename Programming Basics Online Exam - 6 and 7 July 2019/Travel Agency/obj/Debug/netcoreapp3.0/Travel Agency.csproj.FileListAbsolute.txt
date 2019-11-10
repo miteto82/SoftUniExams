@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\bin\Debug\netcoreapp3.0\Travel Agency.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\bin\Debug\netcoreapp3.0\Travel Agency.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\bin\Debug\netcoreapp3.0\Travel Agency.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\bin\Debug\netcoreapp3.0\Travel Agency.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\bin\Debug\netcoreapp3.0\Travel Agency.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\bin\Debug\netcoreapp3.0\Travel Agency.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\obj\Debug\netcoreapp3.0\Travel Agency.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\obj\Debug\netcoreapp3.0\Travel Agency.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\obj\Debug\netcoreapp3.0\Travel Agency.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\obj\Debug\netcoreapp3.0\Travel Agency.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Travel Agency\obj\Debug\netcoreapp3.0\Travel Agency.pdb

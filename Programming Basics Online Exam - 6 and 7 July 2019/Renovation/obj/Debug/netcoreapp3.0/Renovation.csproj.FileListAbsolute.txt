@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\bin\Debug\netcoreapp3.0\Renovation.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\bin\Debug\netcoreapp3.0\Renovation.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\bin\Debug\netcoreapp3.0\Renovation.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\bin\Debug\netcoreapp3.0\Renovation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\bin\Debug\netcoreapp3.0\Renovation.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\bin\Debug\netcoreapp3.0\Renovation.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\obj\Debug\netcoreapp3.0\Renovation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\obj\Debug\netcoreapp3.0\Renovation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\obj\Debug\netcoreapp3.0\Renovation.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\obj\Debug\netcoreapp3.0\Renovation.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Renovation\obj\Debug\netcoreapp3.0\Renovation.pdb

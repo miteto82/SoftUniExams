@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\bin\Debug\netcoreapp3.0\Family trip.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\bin\Debug\netcoreapp3.0\Family trip.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\bin\Debug\netcoreapp3.0\Family trip.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\bin\Debug\netcoreapp3.0\Family trip.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\bin\Debug\netcoreapp3.0\Family trip.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\bin\Debug\netcoreapp3.0\Family trip.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\obj\Debug\netcoreapp3.0\Family trip.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\obj\Debug\netcoreapp3.0\Family trip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\obj\Debug\netcoreapp3.0\Family trip.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\obj\Debug\netcoreapp3.0\Family trip.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Family trip\obj\Debug\netcoreapp3.0\Family trip.pdb

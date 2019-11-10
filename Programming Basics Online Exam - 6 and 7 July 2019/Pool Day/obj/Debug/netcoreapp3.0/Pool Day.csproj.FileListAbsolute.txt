@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\bin\Debug\netcoreapp3.0\Pool Day.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\bin\Debug\netcoreapp3.0\Pool Day.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\bin\Debug\netcoreapp3.0\Pool Day.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\bin\Debug\netcoreapp3.0\Pool Day.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\bin\Debug\netcoreapp3.0\Pool Day.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\bin\Debug\netcoreapp3.0\Pool Day.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\obj\Debug\netcoreapp3.0\Pool Day.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\obj\Debug\netcoreapp3.0\Pool Day.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\obj\Debug\netcoreapp3.0\Pool Day.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\obj\Debug\netcoreapp3.0\Pool Day.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Pool Day\obj\Debug\netcoreapp3.0\Pool Day.pdb

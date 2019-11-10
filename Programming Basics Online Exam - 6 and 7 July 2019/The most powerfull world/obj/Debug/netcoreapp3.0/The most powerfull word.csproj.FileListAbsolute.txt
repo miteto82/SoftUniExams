@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\bin\Debug\netcoreapp3.0\The most powerfull word.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\bin\Debug\netcoreapp3.0\The most powerfull word.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\bin\Debug\netcoreapp3.0\The most powerfull word.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\bin\Debug\netcoreapp3.0\The most powerfull word.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\bin\Debug\netcoreapp3.0\The most powerfull word.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\bin\Debug\netcoreapp3.0\The most powerfull word.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\obj\Debug\netcoreapp3.0\The most powerfull word.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\obj\Debug\netcoreapp3.0\The most powerfull word.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\obj\Debug\netcoreapp3.0\The most powerfull word.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\obj\Debug\netcoreapp3.0\The most powerfull word.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\The most powerfull world\obj\Debug\netcoreapp3.0\The most powerfull word.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\bin\Debug\netcoreapp3.0\Repainting.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\bin\Debug\netcoreapp3.0\Repainting.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\bin\Debug\netcoreapp3.0\Repainting.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\bin\Debug\netcoreapp3.0\Repainting.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\bin\Debug\netcoreapp3.0\Repainting.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\bin\Debug\netcoreapp3.0\Repainting.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\obj\Debug\netcoreapp3.0\Repainting.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\obj\Debug\netcoreapp3.0\Repainting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\obj\Debug\netcoreapp3.0\Repainting.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\obj\Debug\netcoreapp3.0\Repainting.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Repainting\obj\Debug\netcoreapp3.0\Repainting.pdb

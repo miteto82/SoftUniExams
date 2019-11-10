@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\bin\Debug\netcoreapp3.0\Football Tournament.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\bin\Debug\netcoreapp3.0\Football Tournament.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\bin\Debug\netcoreapp3.0\Football Tournament.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\bin\Debug\netcoreapp3.0\Football Tournament.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\bin\Debug\netcoreapp3.0\Football Tournament.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\bin\Debug\netcoreapp3.0\Football Tournament.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\obj\Debug\netcoreapp3.0\Football Tournament.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\obj\Debug\netcoreapp3.0\Football Tournament.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\obj\Debug\netcoreapp3.0\Football Tournament.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\obj\Debug\netcoreapp3.0\Football Tournament.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Football Tournament\obj\Debug\netcoreapp3.0\Football Tournament.pdb

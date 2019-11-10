@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\bin\Debug\netcoreapp3.0\Coffee Machine.exe
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\bin\Debug\netcoreapp3.0\Coffee Machine.deps.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\bin\Debug\netcoreapp3.0\Coffee Machine.runtimeconfig.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\bin\Debug\netcoreapp3.0\Coffee Machine.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\bin\Debug\netcoreapp3.0\Coffee Machine.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\bin\Debug\netcoreapp3.0\Coffee Machine.pdb
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\obj\Debug\netcoreapp3.0\Coffee Machine.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\obj\Debug\netcoreapp3.0\Coffee Machine.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\obj\Debug\netcoreapp3.0\Coffee Machine.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\obj\Debug\netcoreapp3.0\Coffee Machine.dll
+C:\Users\User\source\repos\Programming Basics Online Exam - 6 and 7 July 2019\Coffee Machine\obj\Debug\netcoreapp3.0\Coffee Machine.pdb
